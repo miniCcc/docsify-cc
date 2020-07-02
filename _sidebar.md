@@ -1,2 +1,2 @@
 - 测试
-  - [ceshi](https://github.com/miniCcc/docsify-cc/tree/master/docs)
+  - [ceshi](./docs/test.md)
